@@ -1,9 +1,9 @@
-import ProfileCard from "./ProfileCard";
+import Colors from "./Colors";
 
 function App() {
   return (
     <div>
-      <ProfileCard name="sneha" age="25" location="Pune" />
+      <Colors />
     </div>
   );
 }
