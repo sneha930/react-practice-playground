@@ -1,9 +1,12 @@
-import Colors from "./Colors";
+import Language from "./Language";
+import LanguageSwitcher from "./LanguageSwitcher";
+
 
 function App() {
   return (
     <div>
-      <Colors />
+      <Language />
+      <LanguageSwitcher />
     </div>
   );
 }
