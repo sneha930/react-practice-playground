@@ -15,3 +15,11 @@ Style the buttons and color boxes with some basic styling (you can use Tailwind 
 # Day 2: 
 Create a simple React component that shows a greeting in English, Hindi, or Marathi, depending on the selected language.
 
+# Day 3:
+🔥 Challenge: Real-Time Character Counter with Theme Toggle
+Objective:
+Create a mini React app that includes:
+A textarea where users can type text.
+A live character count displayed below the textarea.
+A toggle button to switch between light and dark themes.
+
