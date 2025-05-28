@@ -23,3 +23,7 @@ A textarea where users can type text.
 A live character count displayed below the textarea.
 A toggle button to switch between light and dark themes.
 
+# Day 4:
+Live Character Filter List
+🎯 Goal:
+Build a component where users type a letter or name and a list of character names (or any items) filters in real-time.
