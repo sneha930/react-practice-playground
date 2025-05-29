@@ -1,11 +1,11 @@
-import EmojiPicker from "./components/EmojiPicker";
+import ToggleMessage from "./components/ToggleMessage";
 
-const App = () => {
+function App() {
   return (
-    <div className="min-h-screen flex justify-center items-center bg-yellow-50">
-      <EmojiPicker />
+    <div className="min-h-screen flex justify-center items-center bg-gray-100">
+      <ToggleMessage />
     </div>
   );
 }
 
-export default App
+export default App;

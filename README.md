@@ -46,3 +46,12 @@ React Task: Emoji Picker with Preview
 You have a list of emojis.
 When you click one, it shows a preview with its meaning.
 The emoji preview is lifted up so sibling components can share the data.
+
+# Day 8:
+Task: Create a useToggle Custom Hook
+🔍 Goal:
+Build a custom hook: useToggle(initialValue)
+It will return:
+A boolean value (e.g., true or false)
+A function to toggle (flip) the value
+Use it to toggle UI components like light/dark, show/hide, etc.
