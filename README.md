@@ -39,3 +39,10 @@ Once data is ready, displays the wrapped component with the data.
 🔍 Goal: Understand and use useContext to manage shared state across components.
 🧠 Mini-Task:
 Build a simple Theme Switcher App using useContext.
+
+# Day 7:
+React Task: Emoji Picker with Preview
+🎯 Goal:
+You have a list of emojis.
+When you click one, it shows a preview with its meaning.
+The emoji preview is lifted up so sibling components can share the data.

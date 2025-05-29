@@ -1,16 +1,11 @@
-import React from 'react'
-import { ThemeProvider } from './ThemeContext'
-import ThemeCard from './components/ThemeCard'
+import EmojiPicker from "./components/EmojiPicker";
 
 const App = () => {
   return (
-    // This wraps the app and gives access to theme
-    <ThemeProvider>
-      <div className="min-h-screen flex justify-center items-center">
-        <ThemeCard />
-      </div>
-    </ThemeProvider>
-  )
+    <div className="min-h-screen flex justify-center items-center bg-yellow-50">
+      <EmojiPicker />
+    </div>
+  );
 }
 
 export default App
