@@ -35,3 +35,7 @@ Create a Higher Order Component called withLoader that:
 Shows a loading spinner (or text) while data is loading.
 Once data is ready, displays the wrapped component with the data.
 
+# Day 6:
+🔍 Goal: Understand and use useContext to manage shared state across components.
+🧠 Mini-Task:
+Build a simple Theme Switcher App using useContext.
