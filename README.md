@@ -55,3 +55,8 @@ It will return:
 A boolean value (e.g., true or false)
 A function to toggle (flip) the value
 Use it to toggle UI components like light/dark, show/hide, etc.
+
+# Day 9:
+⚡ React useReducer Challenge: Counter with Actions
+🧠 Objective:
+Build a counter app using useReducer that handles multiple actions.
