@@ -1,9 +1,10 @@
-import CounterWithReducer from "./components/CounterWithReducer";
+import NatureWebsite from "./components/NatureWebsite";
 
 function App() {
+
   return (
     <div>
-      <CounterWithReducer />
+      <NatureWebsite />
     </div>
   );
 }

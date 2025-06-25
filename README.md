@@ -60,3 +60,21 @@ Use it to toggle UI components like light/dark, show/hide, etc.
 ⚡ React useReducer Challenge: Counter with Actions
 🧠 Objective:
 Build a counter app using useReducer that handles multiple actions.
+
+# Day 10:
+(using redux toolkit)
+🔧 Project: "User Management Dashboard"
+This project will use an API to fetch users and allow actions like:
+Viewing users (fetched from a public API)
+Deleting a user
+Adding a new user (locally for now)
+Loading state and error handling — great for useReducer
+
+# Day 10:
+(using useReducer)
+🔧 Project: "User Management Dashboard"
+This project will use an API to fetch users and allow actions like:
+Viewing users (fetched from a public API)
+Deleting a user
+Adding a new user (locally for now)
+Loading state and error handling — great for useReducer
